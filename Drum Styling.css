@@ -1,0 +1,33 @@
+.title {
+    color:	#FF7F50;
+    text-align: center;
+}
+
+.Button_Set_1 {
+    text-align: center;
+}
+
+.type1 {
+    padding: 0px;
+    border: 4px solid orange;
+    border-radius: 40%;
+    top: 50%;
+    margin: 80px;
+    transform: translate(0%, 280%);
+    height: 100px;
+    width: 120px; 
+    text-align: center;
+    font-size: 25px;
+    font-family: "Comic Sans MS", cursive, sans-serif;  
+    background-color: aqua;
+};
+
+button: {
+    transition: all;
+    transition: 2.0s;
+};
+
+button:hover {
+    background-color: gray;
+};
+
